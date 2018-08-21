@@ -1,2 +1,2 @@
 # AssetsManagerExManifest
-Cocos2d-x AssetsManagerExManifest manifest file auto create shell script
+Cocos2d-x AssetsManagerEx manifest file auto create shell script
